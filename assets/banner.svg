@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">JoakoVrd — desarrollo y diseño</title>
+  <desc id="desc">Cabecera en blanco y negro. Interfaces web, automatización y diseño.</desc>
+  <rect width="1280" height="360" rx="20" fill="#080808"/>
+  <g fill="none" stroke="#262626" stroke-width="1">
+    <path d="M0 90H1280M0 180H1280M0 270H1280M320 0V360M640 0V360M960 0V360"/>
+    <circle cx="1100" cy="180" r="115"/><circle cx="1100" cy="180" r="78"/>
+  </g>
+  <path d="M1028 99H1172V210C1172 252 1140 281 1098 281C1060 281 1032 258 1028 224H1074C1077 239 1087 246 1100 246C1118 246 1127 234 1127 216V138H1028Z" fill="#fff"/>
+  <text x="72" y="83" fill="#aaa" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="5">DESARROLLO · DISEÑO · AUTOMATIZACIÓN</text>
+  <text x="68" y="184" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-4">JoakoVrd</text>
+  <text x="72" y="238" fill="#ddd" font-family="Arial, Helvetica, sans-serif" font-size="25">Ideas que se convierten en herramientas.</text>
+  <path d="M72 281H126" stroke="#fff" stroke-width="3"/>
+  <text x="144" y="287" fill="#aaa" font-family="Arial, Helvetica, sans-serif" font-size="17">JOAQUÍN VERDEJO · CHILE</text>
+</svg>
