@@ -1,4 +1,4 @@
-![JoakoVrd — interfaces web, automatización y diseño](./assets/banner.svg)
+![JoakoVrd — interfaces web, automatización y diseño](./assets/banner.png)
 
 # Joaquín Verdejo · JoakoVrd
 
